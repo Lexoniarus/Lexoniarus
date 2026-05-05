@@ -8,6 +8,7 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
 ![GDScript](https://img.shields.io/badge/GDScript-478CBF?logo=godotengine&logoColor=white)
@@ -23,6 +24,7 @@
 ![Arcade](https://img.shields.io/badge/Arcade-game_prototypes-2E8B57)
 ![Godot](https://img.shields.io/badge/Godot-learning-478CBF?logo=godotengine&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)
+![Business Intelligence](https://img.shields.io/badge/Business_Intelligence-Grafana_+_MySQL-F46800)
 ![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white)
 ![VBA](https://img.shields.io/badge/VBA-Excel_automation-217346?logo=microsoftexcel&logoColor=white)
 ![Audio Engineering](https://img.shields.io/badge/Audio_Engineering-creative_workflows-8B5CF6)
@@ -38,7 +40,7 @@ I learn software engineering by building small systems that actually do somethin
 
 My public repositories are learning projects, not polished products. One is a local AI workflow tool, the other is a playable Python game MVP. Different topics, same practice: take an idea, build a usable prototype, document what works and what does not.
 
-My background is in business controlling, process optimization and IT-heavy workflows. I also have practical experience with Excel and VBA automation from earlier business and learning projects.
+My background is in business controlling, process optimization and IT-heavy workflows. I also have practical experience with Excel and VBA automation from earlier business and learning projects, and with BI/reporting workflows using Grafana and MySQL.
 
 I also have a background in music production and audio engineering. Working with recordings, DAWs and band projects taught me a lot about iterative workflows, technical constraints and creative decision-making.
 
@@ -55,7 +57,7 @@ That background makes me care less about isolated features and more about whethe
 
 | Project | Focus | Link |
 |---|---|---|
-| The Malicks website | Band website, content structure and web presence | [themalicks.com](https://themalicks.com/) |
+| The Malicks website | WordPress-based band website with content structure, media embeds, contact flow, legal/privacy pages and self-managed creative presentation | [themalicks.com](https://themalicks.com/) |
 
 ## What these projects show
 
@@ -67,7 +69,7 @@ Tavernenbank
 Python structure · game loop · UI logic · assets · tests · MVP documentation
 
 The Malicks website
-web structure · creative presentation · media project context
+WordPress · content structure · media embeds · contact flow · creative presentation
 ```
 
 ## What I am practicing right now
@@ -84,18 +86,19 @@ documenting scope, limits and next steps
 
 ```text
 Core development
-Python · SQL · SQLite · FastAPI · Jinja2
+Python · SQL · MySQL · SQLite · FastAPI · Jinja2
 
 Web and UI basics
-HTML · CSS · GDScript
+HTML · CSS · WordPress · GDScript
 
 AI and local workflows
 ComfyUI · Stable Diffusion workflows · LM Studio · local LLM APIs
 
-Data and process tooling
-Excel · VBA · Grafana · ERP workflows · reporting workflows · process documentation
+Data, BI and process tooling
+Excel · VBA · Grafana · MySQL · BI dashboards · ERP workflows · reporting workflows · process documentation
 
-Creative and audio workflows
+Creative, web and audio workflows
+WordPress · content structure · media embeds · contact forms · privacy/legal pages
 Samplitude · Pro Tools · recording workflows · music production · audio engineering
 
 Development tools
