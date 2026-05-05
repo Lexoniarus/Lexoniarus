@@ -29,6 +29,8 @@
 ![Lexware](https://img.shields.io/badge/Lexware-legacy_business_data-0B7285)
 ![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white)
 ![VBA](https://img.shields.io/badge/VBA-Excel_automation-217346?logo=microsoftexcel&logoColor=white)
+![Infrastructure](https://img.shields.io/badge/Infrastructure-site_server_setup-555555)
+![Networking](https://img.shields.io/badge/Networking-VPN_/_firewall_/_cabling-2F4F4F)
 ![Audio Engineering](https://img.shields.io/badge/Audio_Engineering-creative_workflows-8B5CF6)
 ![Music Production](https://img.shields.io/badge/Music_Production-DAW_workflows-111111)
 
@@ -42,7 +44,7 @@ I learn software engineering by building small systems that actually do somethin
 
 My public repositories are learning projects, not polished products. One is a local AI workflow tool, the other is a playable Python game MVP. Different topics, same practice: take an idea, build a usable prototype, document what works and what does not.
 
-My background is in business controlling, process optimization and IT-heavy workflows. I also have practical experience with Excel and VBA automation from earlier business and learning projects, and with BI/reporting workflows that combine data from multiple operational sources such as ERP, CRM, eNVenta, older Lexware data and other tool data in Grafana/MySQL dashboards.
+I am a trained business IT assistant for information processing (`Wirtschaftsassistent für Informationsverarbeitung`) with a background in business controlling, process optimization and IT-heavy workflows. I have practical experience with Excel and VBA automation, BI/reporting workflows that combine data from ERP, CRM, eNVenta, older Lexware data and other tool data in Grafana/MySQL dashboards, and site infrastructure work including local server setup, VPN, UPS, firewall and network cabling.
 
 I also have a background in music production and audio engineering. Working with recordings, DAWs and band projects taught me a lot about iterative workflows, technical constraints and creative decision-making.
 
@@ -99,6 +101,9 @@ ComfyUI · Stable Diffusion workflows · LM Studio · local LLM APIs
 Data, BI and process tooling
 Excel · VBA · Grafana · MySQL · BI dashboards · multi-source reporting
 eNVenta · ERP/CRM workflows · Lexware legacy data · tool data · process documentation
+
+Infrastructure and systems
+local server setup · VPN · UPS · firewall · network cabling · mixed operating-system environments
 
 Creative, web and audio workflows
 WordPress · content structure · media embeds · contact forms · privacy/legal pages
