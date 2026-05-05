@@ -42,7 +42,7 @@ I'm currently completing an MSIT software engineering program with a focus on AI
 
 My public repositories are learning projects, prototypes and MVPs. They are not polished commercial products. They show how I practice turning rough ideas into working systems, with a strong focus on structure, documentation and practical usefulness.
 
-I use AI heavily as a development and learning partner, especially for prototyping, refactoring, documentation and exploring implementation options.
+I use AI as a tool in my development workflow: to explore implementation options, challenge ideas, compare approaches and iterate faster while keeping the concept, structure and decisions under my responsibility.
 
 My background has three roots:
 
