@@ -2,7 +2,7 @@
 
 # Lexoniarus aka Lex aka Alex
 
-### Software Engineering student connecting business IT, data workflows and practical AI prototypes
+### Business IT background · software engineering learner · practical AI and data workflow prototypes
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
@@ -38,9 +38,11 @@
 
 ## About
 
-I'm currently studying software engineering with a focus on AI engineering.
+I'm currently completing an MSIT software engineering program with a focus on AI engineering.
 
-I learn software engineering by building small systems that actually do something. My public repositories are learning projects, not polished products: one is a local AI workflow tool, the other is a playable Python game MVP.
+My public repositories are learning projects, prototypes and MVPs. They are not polished commercial products. They show how I practice turning rough ideas into working systems, with a strong focus on structure, documentation and practical usefulness.
+
+I use AI heavily as a development and learning partner, especially for prototyping, refactoring, documentation and exploring implementation options.
 
 My background has three roots:
 
@@ -57,28 +59,26 @@ That mix makes me care less about isolated features and more about whether a too
 
 ## Public projects
 
-| Project | Focus | Status |
-|---|---|---|
-| [ComfyReview](https://github.com/Lexoniarus/ComfyReview) | Local FastAPI tool for reviewing, curating and analyzing ComfyUI image outputs | Public prototype |
-| [Tavernenbank](https://github.com/Lexoniarus/tavern_blackjack) | Python and Arcade card game MVP with UI, assets, tests and documentation | Archived playable MVP |
+| Project | What it is | What it shows | Status |
+|---|---|---|---|
+| [ComfyReview](https://github.com/Lexoniarus/ComfyReview) | Local FastAPI tool for reviewing and curating ComfyUI image outputs | AI workflow tooling, SQLite persistence, local data handling, image review, filtering and curation logic | Public prototype |
+| [Tavernenbank](https://github.com/Lexoniarus/tavern_blackjack) | Small playable Python/Arcade tavern card game | Game loop practice, UI state, assets, tests, CLI fallback and MVP documentation | Archived playable MVP |
+| [The Malicks website](https://themalicks.com/) | Website and public web presence for my DIY punk/rock band | WordPress, content structure, media embeds, contact flow, legal/privacy pages and creative presentation | Live website |
 
-## Creative and web projects
-
-| Project | Focus | Link |
-|---|---|---|
-| The Malicks website | WordPress-based band website with content structure, media embeds, contact flow, legal/privacy pages and self-managed creative presentation | [themalicks.com](https://themalicks.com/) |
-
-## What these projects show
+## Project context
 
 ```text
 ComfyReview
-AI workflow tooling · FastAPI · SQLite · local data · image review · curation logic
+Built around a real local ComfyUI workflow where generated images need to be reviewed,
+rated, filtered and reused instead of staying as loose files.
 
 Tavernenbank
-Python structure · game loop · UI logic · assets · tests · MVP documentation
+A small learning and fun project. It is mainly about structuring, finishing and documenting
+a playable Python prototype rather than building a long-term game product.
 
 The Malicks website
-WordPress · content structure · media embeds · contact flow · creative presentation
+Part of a wider DIY band workflow: public presence, releases, media, contact flow and
+self-managed creative presentation.
 ```
 
 ## How I approach projects
