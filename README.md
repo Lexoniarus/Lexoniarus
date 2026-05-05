@@ -2,7 +2,7 @@
 
 # Alex
 
-### Software Engineering student building Python prototypes, local tools and AI workflow experiments
+### Software Engineering student learning by building practical Python prototypes and local tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
@@ -32,15 +32,13 @@
 
 I'm currently studying software engineering with a focus on AI engineering.
 
-My GitHub is a public learning space. The projects here are not polished commercial products. They are practical prototypes that help me learn how to turn ideas into working systems.
+I learn software engineering by building small systems that actually do something.
 
-Right now, my public repositories show two sides of that path:
+My public repositories are learning projects, not polished products. One is a local AI workflow tool, the other is a playable Python game MVP. Different topics, same practice: take an idea, build a usable prototype, document what works and what does not.
 
-```text
-local AI workflow tooling + Python game/application prototypes
-```
+My background is in business controlling, process optimization and IT-heavy workflows. I also have practical experience with Excel and VBA automation from earlier business and learning projects.
 
-My background is in business controlling, process optimization and IT-heavy workflows. I also have practical experience with Excel and VBA automation from earlier business and learning projects. That still shapes how I think about software: I care about structure, usable data, clear processes and tools that make sense beyond the code itself.
+That background makes me care less about isolated features and more about whether a tool makes a workflow clearer, data more usable and decisions easier to structure.
 
 ## Public projects
 
@@ -59,16 +57,14 @@ Tavernenbank
 Python structure · game loop · UI logic · assets · tests · MVP documentation
 ```
 
-## Current learning focus
+## What I am practicing right now
 
 ```text
-Python application structure
-FastAPI and local web tools
-SQLite and local persistence
-HTML, CSS and GDScript basics
-local AI workflows with ComfyUI and LM Studio
-game loops and interactive prototypes
-project documentation and MVP scope
+turning rough ideas into working MVPs
+structuring Python applications
+building local tools with persistent data
+connecting AI workflows with usable interfaces
+documenting scope, limits and next steps
 ```
 
 ## Stack and tools
