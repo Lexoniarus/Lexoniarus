@@ -2,7 +2,7 @@
 
 # Alex
 
-### Software Engineering student focused on AI, process logic and practical prototypes
+### Software Engineering student with a focus on AI, process logic and practical prototypes
 
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](#)
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)](#)
@@ -16,13 +16,13 @@
 
 I come from business controlling, process optimization and IT-heavy workflows.
 
-That background shapes how I learn software development. I do not start with code for its own sake. I start with the process, the data and the problem that needs to become usable.
+So I usually do not look at software from the code first. I look at the process, the data, the people using it and the point where things become messy.
 
-Right now, GitHub is my learning path in public: practical exercises, working prototypes and MVPs that help me turn concepts into real systems.
+GitHub is where I make that learning visible. Some projects are exercises, some are prototypes, some are MVPs. The common thread is simple: take an idea, build something usable, learn from it and document the result.
 
 > AI should support people, not replace them.
 
-My long-term direction is AI-assisted workflow automation. Human input is often valuable but messy. I am interested in tools that help turn reports, notes, reviews and decisions into structured, consistent and usable data.
+My long-term direction is AI-assisted workflow automation. Human input is often valuable but messy. Reports, notes, reviews and decisions can contain useful context, but they are hard to compare, search and reuse when everything stays unstructured.
 
 ## What I am building toward
 
@@ -38,17 +38,33 @@ Human input → AI support → structured data → usable workflow
 | [Tavernenbank](https://github.com/Lexoniarus/tavern_blackjack) | Python and Arcade card game MVP with UI, assets, tests and docs | Archived playable MVP |
 | Kompass der Krone | Private Python project for architecture, documentation and iterative game systems | Private learning project |
 
-## Current focus
+## Stack and tools
 
 ```text
-Python · FastAPI · SQLite · SQL · Git · HTML · CSS · JavaScript
-ComfyUI · LM Studio · local AI workflows · Arcade · Grafana · Excel
+Core development
+Python · SQL · SQLite · FastAPI · Jinja2
+
+Web basics
+HTML · CSS · JavaScript
+
+AI and local workflows
+ComfyUI · Stable Diffusion workflows · LM Studio · local LLM APIs
+
+Data and process tooling
+Excel · Grafana · ERP workflows · reporting workflows · process documentation
+
+Development tools
+Git · GitHub · PyCharm · PowerShell · virtual environments · pip
+
+Prototyping
+Arcade · local-first apps · MVP documentation
 ```
 
-## Working style
+## How I work
 
 - concept first
 - process before feature noise
 - small working MVPs
 - clear documentation
 - practical learning through real projects
+- AI as support, not replacement
