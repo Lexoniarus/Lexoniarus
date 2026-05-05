@@ -1,6 +1,6 @@
 <div align="center">
 
-# Alex
+# Lexoniarus aka Alex aka Lex 
 
 ### Software Engineering student learning by building practical Python prototypes and local tools
 
