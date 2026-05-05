@@ -1,6 +1,6 @@
 <div align="center">
 
-# Lexoniarus aka Alex aka Lex
+# Lexoniarus aka Lex aka Alex
 
 ### Software Engineering student connecting business IT, data workflows and practical AI prototypes
 
