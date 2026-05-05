@@ -2,7 +2,7 @@
 
 # Lexoniarus aka Alex aka Lex 
 
-### Software Engineering student learning by building practical Python prototypes and local tools
+### Software Engineering student connecting business IT, data workflows and practical AI prototypes
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
