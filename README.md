@@ -40,15 +40,20 @@
 
 I'm currently studying software engineering with a focus on AI engineering.
 
-I learn software engineering by building small systems that actually do something.
+I learn software engineering by building small systems that actually do something. My public repositories are learning projects, not polished products: one is a local AI workflow tool, the other is a playable Python game MVP.
 
-My public repositories are learning projects, not polished products. One is a local AI workflow tool, the other is a playable Python game MVP. Different topics, same practice: take an idea, build a usable prototype, document what works and what does not.
+My background has three roots:
 
-I am a trained business IT assistant for information processing (`Wirtschaftsassistent für Informationsverarbeitung`) with a background in business controlling, process optimization and IT-heavy workflows. I have practical experience with Excel and VBA automation, BI/reporting workflows that combine data from ERP, CRM, eNVenta, older Lexware data and other tool data in Grafana/MySQL dashboards, and site infrastructure work including local server setup, VPN, UPS, firewall and network cabling.
+**Business IT and data**  
+I am a trained business IT assistant for information processing (`Wirtschaftsassistent für Informationsverarbeitung`) and also hold an ECDL certification. I have worked with business controlling, process optimization, Excel/VBA automation and BI/reporting workflows that combine data from ERP, CRM, eNVenta, older Lexware data and other tools into Grafana/MySQL dashboards.
 
+**Infrastructure and systems**  
+I have practical experience with site infrastructure work, including local server setup, VPN, UPS, firewall and network cabling. That gives me a practical view of systems beyond the application layer.
+
+**Creative technical workflows**  
 I also have a background in music production and audio engineering. Working with recordings, DAWs and band projects taught me a lot about iterative workflows, technical constraints and creative decision-making.
 
-That background makes me care less about isolated features and more about whether a tool makes a workflow clearer, data more usable and decisions easier to structure.
+That mix makes me care less about isolated features and more about whether a tool makes a workflow clearer, data more usable and decisions easier to structure.
 
 ## Public projects
 
