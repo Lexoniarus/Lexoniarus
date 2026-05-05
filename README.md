@@ -24,6 +24,7 @@
 ![Godot](https://img.shields.io/badge/Godot-learning-478CBF?logo=godotengine&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white)
+![VBA](https://img.shields.io/badge/VBA-Excel_automation-217346?logo=microsoftexcel&logoColor=white)
 
 </div>
 
@@ -39,7 +40,7 @@ Right now, my public repositories show two sides of that path:
 local AI workflow tooling + Python game/application prototypes
 ```
 
-My background is in business controlling, process optimization and IT-heavy workflows. That still shapes how I think about software: I care about structure, usable data, clear processes and tools that make sense beyond the code itself.
+My background is in business controlling, process optimization and IT-heavy workflows. I also have practical experience with Excel and VBA automation from earlier business and learning projects. That still shapes how I think about software: I care about structure, usable data, clear processes and tools that make sense beyond the code itself.
 
 ## Public projects
 
@@ -83,7 +84,7 @@ AI and local workflows
 ComfyUI · Stable Diffusion workflows · LM Studio · local LLM APIs
 
 Data and process tooling
-Excel · Grafana · ERP workflows · reporting workflows · process documentation
+Excel · VBA · Grafana · ERP workflows · reporting workflows · process documentation
 
 Development tools
 Git · GitHub · PyCharm · PowerShell · virtual environments · pip
