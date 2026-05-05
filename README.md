@@ -1,6 +1,6 @@
 <div align="center">
 
-# Lexoniarus aka Alex aka Lex 
+# Lexoniarus aka Alex aka Lex
 
 ### Software Engineering student connecting business IT, data workflows and practical AI prototypes
 
@@ -51,7 +51,7 @@ I am a trained business IT assistant for information processing (`Wirtschaftsass
 I have practical experience with site infrastructure work, including local server setup, VPN, UPS, firewall and network cabling. That gives me a practical view of systems beyond the application layer.
 
 **Creative technical workflows**  
-I also have a background in music production and audio engineering. Working with recordings, DAWs and band projects taught me a lot about iterative workflows, technical constraints and creative decision-making.
+I also have a background in music production and audio engineering. In my band project, I handle much of the DIY workflow around the music: booking, public presence, website, releases, mixing and mastering. It is less a separate professional focus and more another example of how I tend to work: taking responsibility for the full process, from raw material to finished output.
 
 That mix makes me care less about isolated features and more about whether a tool makes a workflow clearer, data more usable and decisions easier to structure.
 
@@ -81,15 +81,20 @@ The Malicks website
 WordPress · content structure · media embeds · contact flow · creative presentation
 ```
 
-## What I am practicing right now
+## How I approach projects
 
 ```text
-turning rough ideas into working MVPs
-structuring Python applications
-building local tools with persistent data
-connecting AI workflows with usable interfaces
-documenting scope, limits and next steps
+start with the data or material
+understand how it behaves
+find the patterns and edge cases
+turn that into structure
+build a usable prototype
+document scope, limits and next steps
 ```
+
+I like thinking user-interface first when it comes to usability, but not at the cost of the underlying data logic. The right level of complexity depends on the user, the task, the data and the process behind it.
+
+A good tool should have a practical effect in a real workflow. Saving time, reducing friction and making information more consistent matter more to me than technical elegance for its own sake.
 
 ## Stack and tools
 
@@ -125,6 +130,6 @@ Arcade · Godot · local-first apps · MVP documentation
 
 Long term, I want to connect my process background with software and AI engineering.
 
-The goal is to build tools that help turn messy input, workflows and decisions into something more structured, usable and easier to work with.
+I am interested in AI-assisted workflows where people can stay focused on the human part of the work, while AI helps turn unstructured input into consistent, schema-based data.
 
 AI should support people, not replace them.
