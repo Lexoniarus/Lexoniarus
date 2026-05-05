@@ -25,6 +25,8 @@
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white)
 ![VBA](https://img.shields.io/badge/VBA-Excel_automation-217346?logo=microsoftexcel&logoColor=white)
+![Audio Engineering](https://img.shields.io/badge/Audio_Engineering-creative_workflows-8B5CF6)
+![Music Production](https://img.shields.io/badge/Music_Production-DAW_workflows-111111)
 
 </div>
 
@@ -38,6 +40,8 @@ My public repositories are learning projects, not polished products. One is a lo
 
 My background is in business controlling, process optimization and IT-heavy workflows. I also have practical experience with Excel and VBA automation from earlier business and learning projects.
 
+I also have a background in music production and audio engineering. Working with recordings, DAWs and band projects taught me a lot about iterative workflows, technical constraints and creative decision-making.
+
 That background makes me care less about isolated features and more about whether a tool makes a workflow clearer, data more usable and decisions easier to structure.
 
 ## Public projects
@@ -47,6 +51,12 @@ That background makes me care less about isolated features and more about whethe
 | [ComfyReview](https://github.com/Lexoniarus/ComfyReview) | Local FastAPI tool for reviewing, curating and analyzing ComfyUI image outputs | Public prototype |
 | [Tavernenbank](https://github.com/Lexoniarus/tavern_blackjack) | Python and Arcade card game MVP with UI, assets, tests and documentation | Archived playable MVP |
 
+## Creative and web projects
+
+| Project | Focus | Link |
+|---|---|---|
+| The Malicks website | Band website, content structure and web presence | [themalicks.com](https://themalicks.com/) |
+
 ## What these projects show
 
 ```text
@@ -55,6 +65,9 @@ AI workflow tooling · FastAPI · SQLite · local data · image review · curati
 
 Tavernenbank
 Python structure · game loop · UI logic · assets · tests · MVP documentation
+
+The Malicks website
+web structure · creative presentation · media project context
 ```
 
 ## What I am practicing right now
@@ -81,6 +94,9 @@ ComfyUI · Stable Diffusion workflows · LM Studio · local LLM APIs
 
 Data and process tooling
 Excel · VBA · Grafana · ERP workflows · reporting workflows · process documentation
+
+Creative and audio workflows
+Samplitude · Pro Tools · recording workflows · music production · audio engineering
 
 Development tools
 Git · GitHub · PyCharm · PowerShell · virtual environments · pip
