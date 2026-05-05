@@ -24,7 +24,9 @@
 ![Arcade](https://img.shields.io/badge/Arcade-game_prototypes-2E8B57)
 ![Godot](https://img.shields.io/badge/Godot-learning-478CBF?logo=godotengine&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)
-![Business Intelligence](https://img.shields.io/badge/Business_Intelligence-Grafana_+_MySQL-F46800)
+![Business Intelligence](https://img.shields.io/badge/Business_Intelligence-multi_source_reporting-F46800)
+![eNVenta](https://img.shields.io/badge/eNVenta-ERP_/_CRM-005A9C)
+![Lexware](https://img.shields.io/badge/Lexware-legacy_business_data-0B7285)
 ![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white)
 ![VBA](https://img.shields.io/badge/VBA-Excel_automation-217346?logo=microsoftexcel&logoColor=white)
 ![Audio Engineering](https://img.shields.io/badge/Audio_Engineering-creative_workflows-8B5CF6)
@@ -40,7 +42,7 @@ I learn software engineering by building small systems that actually do somethin
 
 My public repositories are learning projects, not polished products. One is a local AI workflow tool, the other is a playable Python game MVP. Different topics, same practice: take an idea, build a usable prototype, document what works and what does not.
 
-My background is in business controlling, process optimization and IT-heavy workflows. I also have practical experience with Excel and VBA automation from earlier business and learning projects, and with BI/reporting workflows using Grafana and MySQL.
+My background is in business controlling, process optimization and IT-heavy workflows. I also have practical experience with Excel and VBA automation from earlier business and learning projects, and with BI/reporting workflows that combine data from multiple operational sources such as ERP, CRM, eNVenta, older Lexware data and other tool data in Grafana/MySQL dashboards.
 
 I also have a background in music production and audio engineering. Working with recordings, DAWs and band projects taught me a lot about iterative workflows, technical constraints and creative decision-making.
 
@@ -95,7 +97,8 @@ AI and local workflows
 ComfyUI · Stable Diffusion workflows · LM Studio · local LLM APIs
 
 Data, BI and process tooling
-Excel · VBA · Grafana · MySQL · BI dashboards · ERP workflows · reporting workflows · process documentation
+Excel · VBA · Grafana · MySQL · BI dashboards · multi-source reporting
+eNVenta · ERP/CRM workflows · Lexware legacy data · tool data · process documentation
 
 Creative, web and audio workflows
 WordPress · content structure · media embeds · contact forms · privacy/legal pages
