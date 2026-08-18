@@ -1,133 +1,110 @@
 <div align="center">
 
-# Lexoniarus aka Lex aka Alex
+# Alex · Lexoniarus
 
-### Business IT background · software engineering learner · practical AI and data workflow prototypes
+### Software Engineering · Applied AI · Realtime Systems · Simulation
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
-![GDScript](https://img.shields.io/badge/GDScript-478CBF?logo=godotengine&logoColor=white)
+I build software around **real workflows, structured data and complex system behavior** — from AI-assisted business applications to realtime simulations with autonomous agents.
 
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white)
-
-![ComfyUI](https://img.shields.io/badge/ComfyUI-local_AI_workflows-6A5ACD)
-![Stable Diffusion](https://img.shields.io/badge/Stable_Diffusion-image_workflows-8A2BE2)
-![LM Studio](https://img.shields.io/badge/LM_Studio-local_LLMs-444444)
-![Arcade](https://img.shields.io/badge/Arcade-game_prototypes-2E8B57)
-![Godot](https://img.shields.io/badge/Godot-learning-478CBF?logo=godotengine&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)
-![Business Intelligence](https://img.shields.io/badge/Business_Intelligence-multi_source_reporting-F46800)
-![eNVenta](https://img.shields.io/badge/eNVenta-ERP_/_CRM-005A9C)
-![Lexware](https://img.shields.io/badge/Lexware-legacy_business_data-0B7285)
-![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white)
-![VBA](https://img.shields.io/badge/VBA-Excel_automation-217346?logo=microsoftexcel&logoColor=white)
-![Infrastructure](https://img.shields.io/badge/Infrastructure-site_server_setup-555555)
-![Networking](https://img.shields.io/badge/Networking-VPN_/_firewall_/_cabling-2F4F4F)
-![Audio Engineering](https://img.shields.io/badge/Audio_Engineering-creative_workflows-8B5CF6)
-![Music Production](https://img.shields.io/badge/Music_Production-DAW_workflows-111111)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-Realtime-4B5563?style=flat-square)
+![AI Engineering](https://img.shields.io/badge/AI_Engineering-Applied_AI-6D28D9?style=flat-square)
 
 </div>
 
 ## About
 
-I'm currently completing an MSIT software engineering program with a focus on AI engineering.
+I'm currently completing a software engineering program with a focus on **AI Engineering**.
 
-My public repositories are learning projects, prototypes and MVPs. They are not polished commercial products. They show how I practice turning rough ideas into working systems, with a strong focus on structure, documentation and practical usefulness.
+Before moving deeper into software development, I worked with business processes, sales controlling, CRM/ERP systems, Excel/VBA automation and BI/reporting. That background still strongly influences how I build software: I care about the domain model, the data behind it and what a system actually needs to accomplish for its users.
 
-My background has three roots:
+My current work is centered around two larger projects that explore very different engineering problems.
 
-**Business IT and data**  
-I am a trained business IT assistant for information processing (`Wirtschaftsassistent für Informationsverarbeitung`) and also hold an ECDL certification. I have worked with business controlling, process optimization, Excel/VBA automation and BI/reporting workflows that combine data from ERP, CRM, eNVenta, older Lexware data and other tools into Grafana/MySQL dashboards.
+## Featured projects
 
-**Infrastructure and systems**  
-I have practical experience with site infrastructure work, including local server setup, VPN, UPS, firewall and network cabling. That gives me a practical view of systems beyond the application layer.
+### BENNO — Voice-assisted B2B visit report assistant
 
-**Creative technical workflows**  
-I also have a background in music production and audio engineering. In my band project, I handle much of the DIY workflow around the music: booking, public presence, website, releases, mixing and mastering. It is less a separate professional focus and more another example of how I tend to work: taking responsibility for the full process, from raw material to finished output.
+[![View BENNO](https://img.shields.io/badge/View_BENNO-Repository-181717?style=for-the-badge&logo=github)](https://github.com/Lexoniarus/BENNO)
 
-That mix makes me care less about isolated features and more about whether a tool makes a workflow clearer, data more usable and decisions easier to structure.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-LLM-4285F4?style=flat-square&logo=google&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Speech](https://img.shields.io/badge/STT_%2F_TTS-Local-0F766E?style=flat-square)
 
-## Public projects
+BENNO turns natural-language meeting notes into structured, reviewable CRM/ERP-ready visit reports.
 
-| Project | What it is | What it shows | Status |
-|---|---|---|---|
-| [ComfyReview](https://github.com/Lexoniarus/ComfyReview) | Local FastAPI tool for reviewing and curating ComfyUI image outputs | AI workflow tooling, SQLite persistence, local data handling, image review, filtering and curation logic | Public prototype |
-| [Tavernenbank](https://github.com/Lexoniarus/tavern_blackjack) | Small playable Python/Arcade tavern card game | Game loop practice, UI state, assets, tests, CLI fallback and MVP documentation | Archived playable MVP |
-| [The Malicks website](https://themalicks.com/) | Website and public web presence for my DIY punk/rock band | WordPress, content structure, media embeds, contact flow, legal/privacy pages and creative presentation | Live website |
+The project combines an AI-assisted conversation flow with deterministic application logic. The LLM can interpret and propose information, but validation, workflow state, CRM references and final writeback remain under application control.
 
-## Project context
+**Engineering focus**
 
-```text
-ComfyReview
-Built around a real local ComfyUI workflow where generated images need to be reviewed,
-rated, filtered and reused instead of staying as loose files.
+- structured LLM output and provider abstraction
+- deterministic validation around probabilistic AI
+- human review before business-system writeback
+- local Speech-to-Text and Text-to-Speech
+- CRM/ERP gateway abstraction with Mock-eNVenta
+- authentication and role-based application flows
+- observability and automated regression tests
+- privacy-oriented path toward local AI providers
 
-Tavernenbank
-A small learning and fun project. It is mainly about structuring, finishing and documenting
-a playable Python prototype rather than building a long-term game product.
+---
 
-The Malicks website
-Part of a wider DIY band workflow: public presence, releases, media, contact flow and
-self-managed creative presentation.
-```
+### TV Manager 2000 — Realtime TV management simulation
 
-## How I approach projects
+[![View TV Manager 2000](https://img.shields.io/badge/View_TV_Manager_2000-Repository-181717?style=for-the-badge&logo=github)](https://github.com/Lexoniarus/tv-manager-2000)
 
-```text
-start with the data or material
-understand how it behaves
-find the patterns and edge cases
-turn that into structure
-build a usable prototype
-document scope, limits and next steps
-```
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-Multiplayer-4B5563?style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-Testing-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 
-I like thinking user-interface first when it comes to usability, but not at the cost of the underlying data logic. The right level of complexity depends on the user, the task, the data and the process behind it.
+TV Manager 2000 is a browser-based management game set in the DACH television market around 1990.
 
-A good tool should have a practical effect in a real workflow. Saving time, reducing friction and making information more consistent matter more to me than technical elegance for its own sake.
+What started as a game prototype has grown into a larger realtime simulation: multiple competing television stations share markets, content, advertising opportunities and a running game world. Human players and autonomous bot-controlled stations operate under the same underlying rules.
 
-## Stack and tools
+**Engineering focus**
 
-```text
-Core development
-Python · SQL · MySQL · SQLite · FastAPI · Jinja2
+- authoritative Python/FastAPI realtime backend
+- WebSocket multiplayer and shared world state
+- 6–18 competing television stations
+- utility-based autonomous bot decision systems
+- programme scheduling and advertising economy
+- content licensing and market simulation
+- audience, transmitter and population modelling
+- persistent seasons and reconnectable player ownership
+- multi-day automated simulation and browser playtests
+- separate content, population, rules and runtime data boundaries
 
-Web and UI basics
-HTML · CSS · WordPress · GDScript
+## Engineering interests
 
-AI and local workflows
-ComfyUI · Stable Diffusion workflows · LM Studio · local LLM APIs
+I'm particularly interested in software where several layers meet:
 
-Data, BI and process tooling
-Excel · VBA · Grafana · MySQL · BI dashboards · multi-source reporting
-eNVenta · ERP/CRM workflows · Lexware legacy data · tool data · process documentation
+- **Applied AI** — using language models for interpretation without handing them uncontrolled business decisions
+- **Backend architecture** — clear ownership of state, domain rules and external-system boundaries
+- **Simulation and agents** — systems whose behavior emerges over time instead of producing only one request/response result
+- **Data engineering** — turning external and heterogeneous data into stable internal models
+- **Testing and observability** — making complex or probabilistic behavior inspectable and reproducible
 
-Infrastructure and systems
-local server setup · VPN · UPS · firewall · network cabling · mixed operating-system environments
+I tend to prefer **hybrid systems**: deterministic code where rules can be known, AI where interpretation is genuinely useful, and explicit boundaries between the two.
 
-Creative, web and audio workflows
-WordPress · content structure · media embeds · contact forms · privacy/legal pages
-Samplitude · Pro Tools · recording workflows · music production · audio engineering
+## Background
 
-Development tools
-Git · GitHub · PyCharm · PowerShell · virtual environments · pip
+My earlier work includes business controlling, process development, CRM/ERP introduction and BI/reporting across heterogeneous data sources.
 
-Prototyping
-Arcade · Godot · local-first apps · MVP documentation
-```
+That experience is one reason I am interested in the space between pure software development and domain-heavy applications: understanding the process first, modelling it clearly, and then deciding which parts benefit from automation, AI or conventional software logic.
 
-## Direction
+I also have a long-running background in music production and audio engineering. It remains an important creative part of my life, but it is no longer the focus of this profile.
 
-Long term, I want to connect my process background with software and AI engineering.
+## Current direction
 
-I am interested in AI-assisted workflows where people can stay focused on the human part of the work, while AI helps turn unstructured input into consistent, schema-based data.
+My goal is to work on **AI-enabled software systems that are useful beyond the demo stage**.
 
-AI should support people, not replace them.
+That means not only connecting an API to an interface, but thinking about state, data quality, validation, failure modes, privacy, integration boundaries, testing and the people who eventually have to trust the result.
