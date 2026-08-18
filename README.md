@@ -20,7 +20,9 @@ I build software that turns **messy real-world input or complex system state int
 
 I'm currently completing a software engineering program with a focus on **AI Engineering**.
 
-My earlier work was rooted in business IT: sales controlling, process development, CRM/ERP systems, Excel/VBA automation and BI/reporting. That background still shapes how I build software today — I tend to start with the domain, the data and the actual workflow before choosing the technology.
+I did not come into software from a purely academic route. My professional path started in business IT and then moved through operations, sales, sales controlling, process development, CRM/ERP work and BI before I shifted my main focus toward software and AI engineering.
+
+That background still shapes how I build software today. I tend to start with the domain, the workflow, the data and the responsibility boundaries before choosing the technology.
 
 My public projects also show a fairly visible progression: from a small, contained game MVP to larger systems involving AI, realtime state, autonomous agents, external data and much broader test coverage.
 
@@ -89,6 +91,12 @@ I am less interested in adding technology for its own sake than in deciding **wh
 
 ## Background
 
-I am a trained business IT assistant for information processing (`Wirtschaftsassistent für Informationsverarbeitung`). My earlier work included sales controlling, CRM/ERP introduction, process development and BI/reporting across heterogeneous data sources.
+My professional path started in **2010** with a qualification as a `Wirtschaftsassistent für Informationsverarbeitung`, but that qualification is only the starting point of the story.
+
+Over the following years I worked across **operations, sales, sales controlling, process development and business intelligence**. My work increasingly moved toward the intersection of business processes, data and technical implementation: introducing and improving CRM/ERP workflows, building reporting and KPI structures, automating recurring work with Excel/VBA, working with MySQL-backed data and combining information from current and legacy business systems in Grafana dashboards.
+
+A recurring part of that work was translating between different perspectives — what users actually do, what management needs to know, what the underlying systems can provide and how the process itself could be structured more effectively. I also gained hands-on experience with local systems and infrastructure rather than working only at the reporting layer.
+
+In 2026, that path has moved further into **software and AI engineering**. I bring the earlier process and data experience with me rather than treating it as a separate career chapter: it is one of the reasons I care about domain modelling, integration boundaries, data quality, deterministic validation and whether a technical solution actually fits the workflow around it.
 
 I also have a long-running background in music production and audio engineering. It remains an important creative part of my life, but the professional focus here is software and AI engineering.
