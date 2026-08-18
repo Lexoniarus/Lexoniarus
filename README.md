@@ -2,9 +2,9 @@
 
 # Alex · Lexoniarus
 
-### Software Engineering · Applied AI · Realtime Systems · Simulation
+### Software Engineering · AI Engineering · Backend & Realtime Systems
 
-I build software around **real workflows, structured data and complex system behavior** — from AI-assisted business applications to realtime simulations with autonomous agents.
+I build software that turns **messy real-world input or complex system state into reliable, testable behavior**.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
@@ -13,7 +13,6 @@ I build software around **real workflows, structured data and complex system beh
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/WebSockets-Realtime-4B5563?style=flat-square)
-![AI Engineering](https://img.shields.io/badge/AI_Engineering-Applied_AI-6D28D9?style=flat-square)
 
 </div>
 
@@ -21,9 +20,9 @@ I build software around **real workflows, structured data and complex system beh
 
 I'm currently completing a software engineering program with a focus on **AI Engineering**.
 
-Before moving deeper into software development, I worked with business processes, sales controlling, CRM/ERP systems, Excel/VBA automation and BI/reporting. That background still strongly influences how I build software: I care about the domain model, the data behind it and what a system actually needs to accomplish for its users.
+My earlier work was rooted in business IT: sales controlling, process development, CRM/ERP systems, Excel/VBA automation and BI/reporting. That background still shapes how I build software today — I tend to start with the domain, the data and the actual workflow before choosing the technology.
 
-My current work is centered around two larger projects that explore very different engineering problems.
+My public projects also show a fairly visible progression: from a small, contained game MVP to larger systems involving AI, realtime state, autonomous agents, external data and much broader test coverage.
 
 ## Featured projects
 
@@ -35,23 +34,13 @@ My current work is centered around two larger projects that explore very differe
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-LLM-4285F4?style=flat-square&logo=google&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Speech](https://img.shields.io/badge/STT_%2F_TTS-Local-0F766E?style=flat-square)
 
 BENNO turns natural-language meeting notes into structured, reviewable CRM/ERP-ready visit reports.
 
-The project combines an AI-assisted conversation flow with deterministic application logic. The LLM can interpret and propose information, but validation, workflow state, CRM references and final writeback remain under application control.
+The key design decision is that the AI **interprets and proposes**, while application code remains responsible for validation, workflow state and writeback.
 
-**Engineering focus**
-
-- structured LLM output and provider abstraction
-- deterministic validation around probabilistic AI
-- human review before business-system writeback
-- local Speech-to-Text and Text-to-Speech
-- CRM/ERP gateway abstraction with Mock-eNVenta
-- authentication and role-based application flows
-- observability and automated regression tests
-- privacy-oriented path toward local AI providers
+**Focus:** structured LLM output · deterministic validation · provider abstraction · local STT/TTS · CRM/ERP gateway boundaries · human review · regression testing
 
 ---
 
@@ -68,43 +57,38 @@ The project combines an AI-assisted conversation flow with deterministic applica
 
 TV Manager 2000 is a browser-based management game set in the DACH television market around 1990.
 
-What started as a game prototype has grown into a larger realtime simulation: multiple competing television stations share markets, content, advertising opportunities and a running game world. Human players and autonomous bot-controlled stations operate under the same underlying rules.
+It has grown from a game prototype into a server-authoritative realtime simulation with shared markets, multiplayer state and autonomous competing stations operating under the same rules as human players.
 
-**Engineering focus**
+**Focus:** FastAPI/WebSocket runtime · authoritative shared state · utility-based bot decisions · scheduling/economy simulation · content and population data · persistence · multi-day simulation and browser playtests
 
-- authoritative Python/FastAPI realtime backend
-- WebSocket multiplayer and shared world state
-- 6–18 competing television stations
-- utility-based autonomous bot decision systems
-- programme scheduling and advertising economy
-- content licensing and market simulation
-- audience, transmitter and population modelling
-- persistent seasons and reconnectable player ownership
-- multi-day automated simulation and browser playtests
-- separate content, population, rules and runtime data boundaries
+## Earlier MVP · visible progression
 
-## Engineering interests
+### Tavernenbank
 
-I'm particularly interested in software where several layers meet:
+[![View Tavernenbank](https://img.shields.io/badge/View_Tavernenbank-Repository-181717?style=for-the-badge&logo=github)](https://github.com/Lexoniarus/tavern_blackjack)
 
-- **Applied AI** — using language models for interpretation without handing them uncontrolled business decisions
-- **Backend architecture** — clear ownership of state, domain rules and external-system boundaries
-- **Simulation and agents** — systems whose behavior emerges over time instead of producing only one request/response result
-- **Data engineering** — turning external and heterogeneous data into stable internal models
-- **Testing and observability** — making complex or probabilistic behavior inspectable and reproducible
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Arcade](https://img.shields.io/badge/Arcade-3.x-2E8B57?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Archived_MVP-6B7280?style=flat-square)
 
-I tend to prefer **hybrid systems**: deterministic code where rules can be known, AI where interpretation is genuinely useful, and explicit boundaries between the two.
+Tavernenbank is a small playable Python/Arcade card-game MVP with NPC opponents, graphical and command-line interfaces, integrated assets and unit tests.
+
+I keep it public deliberately. It represents an earlier stage of my development and makes the progression toward BENNO and TV Manager 2000 much easier to see: from finishing a contained game loop to designing larger systems with clearer boundaries, more state, broader testing and substantially more backend responsibility.
+
+## How I tend to build
+
+Different domains, same underlying principles:
+
+- use **deterministic code** for rules that can be known
+- use **AI** where interpretation of ambiguous input is actually useful
+- keep one clear owner for important state and business decisions
+- separate source data, runtime state and presentation concerns
+- test complete behavior, not only individual functions
+
+I am less interested in adding technology for its own sake than in deciding **where a responsibility belongs and how to make the result observable and reliable**.
 
 ## Background
 
-My earlier work includes business controlling, process development, CRM/ERP introduction and BI/reporting across heterogeneous data sources.
+I am a trained business IT assistant for information processing (`Wirtschaftsassistent für Informationsverarbeitung`). My earlier work included sales controlling, CRM/ERP introduction, process development and BI/reporting across heterogeneous data sources.
 
-That experience is one reason I am interested in the space between pure software development and domain-heavy applications: understanding the process first, modelling it clearly, and then deciding which parts benefit from automation, AI or conventional software logic.
-
-I also have a long-running background in music production and audio engineering. It remains an important creative part of my life, but it is no longer the focus of this profile.
-
-## Current direction
-
-My goal is to work on **AI-enabled software systems that are useful beyond the demo stage**.
-
-That means not only connecting an API to an interface, but thinking about state, data quality, validation, failure modes, privacy, integration boundaries, testing and the people who eventually have to trust the result.
+I also have a long-running background in music production and audio engineering. It remains an important creative part of my life, but the professional focus here is software and AI engineering.
