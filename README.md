@@ -20,11 +20,11 @@ I build software that turns **messy real-world input or complex system state int
 
 I'm currently completing a software engineering program with a focus on **AI Engineering**.
 
-My route into software has been practical rather than linear. Since 2010, I have worked across customer-facing sales, IT support, transport operations, sales controlling, process development, CRM/ERP and business intelligence. Over time, my work moved from operating inside business systems to analysing, improving and automating the processes around them — and now to building software and AI systems myself.
+Business processes and IT have been connected throughout my career rather than being separate chapters. My technical foundation goes back to my vocational training in information processing, where programming, data handling and office automation were already part of the curriculum. Since then, I have repeatedly used technology to simplify economic workflows, structure information and reduce repetitive work — first heavily through Excel and VBA, later through CRM/ERP systems, databases, BI tooling and now dedicated software and AI systems.
 
-That progression still shapes how I approach engineering: understand the domain, workflow, data and responsibility boundaries first, then choose the technology.
+That background shapes how I approach engineering today: understand the domain, workflow, data and responsibility boundaries first, then choose the technology that actually fits the problem.
 
-My public projects show the same progression on the development side: from a contained game MVP to larger systems involving AI, realtime state, autonomous agents, external data and substantially broader test coverage.
+My public projects show a similar development on the software side: from a contained game MVP to larger systems involving AI, realtime state, autonomous agents, external data and substantially broader test coverage.
 
 ## Featured projects
 
@@ -91,14 +91,16 @@ I am less interested in adding technology for its own sake than in deciding **wh
 
 ## Professional background
 
-My formal technical foundation is a state-recognized qualification as a `Wirtschaftsassistent für Informationsverarbeitung`, completed in 2010. The years since then are more important to my current profile than the qualification by itself.
+My formal foundation is a state-recognized qualification as a `Wirtschaftsassistent für Informationsverarbeitung`, completed in 2010. It combined commercial subjects with information processing and programming; my final programming project was a calculator built in Visual Basic.
 
-I started in customer-facing sales and later moved into IT support, where troubleshooting, documentation, statistical evaluation and team responsibility became part of my work. From there I moved into transport operations and inside sales, combining customer processes, market analysis, supplier coordination and day-to-day operational problem solving.
+The important continuity since then is that I kept using IT as a practical tool for economic and operational problems. Excel in particular became much more than an office application for me: over the years I used formulas, structured workbooks and VBA-based automation to reduce manual work, speed up recurring processes and make operational data easier to use.
 
-My work at S:FLEX shifted much more strongly toward the intersection of **business processes, data and systems**. I worked in sales controlling and process development, supported the introduction and continued development of CRM and ERP processes, documented workflows, analysed sales and customer data, built KPI-based management reporting and created MySQL-backed Grafana dashboards for sales and process analysis.
+Professionally, I worked across customer-facing sales, IT support, transport operations and inside sales before moving increasingly into sales controlling and process development. Those roles gave me both sides of the problem: the people actually working inside a process and the systems, data and reporting structures behind it.
+
+At S:FLEX, that connection became especially explicit. I supported the introduction and continued development of CRM and ERP processes, documented workflows, analysed sales and customer data, helped automate sales processes, built KPI-based management reporting and created MySQL-backed Grafana dashboards for sales and process analysis.
 
 Across those roles, a recurring part of my work was translating between different perspectives: what users actually do, what commercial teams need, what management wants to understand, what the available data says and what the underlying systems can realistically support.
 
-That is the background I bring into software and AI engineering today. I did not leave the earlier process and data work behind; it is one of the reasons I care about domain modelling, integration boundaries, data quality, deterministic validation and whether a technical solution actually fits the workflow around it.
+Software and AI engineering are therefore not a departure from my earlier background, but a deeper technical continuation of it. The tools have changed — from Visual Basic, Excel and VBA through CRM/ERP, SQL and BI toward Python, backend systems and AI — while the underlying interest has remained remarkably consistent: **use technology to make processes clearer, faster and more reliable**.
 
 I also have a long-running background in music production and audio engineering. It remains an important creative part of my life, but the professional focus here is software and AI engineering.
